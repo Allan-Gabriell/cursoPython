@@ -41,5 +41,4 @@ while True:
         print('VOCÊ GANHOU PARABÉNS!')
         print('A palavra era', palavra_secreta)
         print('Tentativas', tentativas)
-        break
-    
+        break    
