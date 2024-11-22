@@ -10,7 +10,7 @@ EX.: 746.824.890-70
 
 Somar todos os resultados:
 70+36+48+56+12+20+32+27+0 = 301
-Multiplicar o rresultado anterior po 10
+Multiplicar o resultado anterior por 10
 301*10 = 3010
 obter o resto da divisão da conta anteriro por 11
 3010 % 11 = 7
